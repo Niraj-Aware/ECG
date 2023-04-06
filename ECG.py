@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 !pip install pandas streamlit plotly scikit-learn tensorflow pyserial
 
 import numpy as np
